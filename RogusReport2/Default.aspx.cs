@@ -25,7 +25,7 @@ namespace RogusReport2
 
                 ReportViewer1.LocalReport.DataSources.Add(new Microsoft.Reporting.WebForms.ReportDataSource("DataSet1", dt));
 
-                localReport.ReportPath = "reports/RogusReport.rdl";
+                localReport.ReportPath = "RogusReport.rdl";
 
             }
         }
