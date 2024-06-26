@@ -8,7 +8,7 @@
           
     </main>
 
-<rsweb:ReportViewer ID="ReportViewer1" runat="server" Width="1031px">
+<rsweb:ReportViewer ID="ReportViewer1" runat="server" Width="1031px" Height="532px">
 </rsweb:ReportViewer>
 
 </asp:Content>
